@@ -1,4 +1,4 @@
-# # Automatic Updater For oub-remix 
+# # Automatic Updater For USERGE-X
 
 
 ![logo](https://telegra.ph/file/67e5ed14bed07a529e7aa.jpg)
