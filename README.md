@@ -1,4 +1,4 @@
-# # Automatic Updater For USERGE-X
+# #Updater For USERGE-X
 
 
 ![logo](http://www.universdescomics.com/wp-content/uploads/2017/01/X-Men-TV-Series-Confirmed.jpg)
