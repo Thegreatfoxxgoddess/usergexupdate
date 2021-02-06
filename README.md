@@ -10,13 +10,13 @@
 ##### 1. Clone the repository (if exists, then ignore)
 
 ```bash
-git clone https://github.com/RoyalBoy69/usergrxupdate
+git clone https://github.com/thegreatfoxxgoddess/updatepaimon
 ```
 
 ##### 2. Run the below command to run the script
 
 ```bash
-. usergexupdate/s*
+. updatepaimon/s*
 ```
 
 The script will do the process automatically
