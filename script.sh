@@ -33,7 +33,7 @@ fi
 
 echo " "
 echo "Updating your USERGE-X"
-git pull https://github.com/code-rgb/Paimon.git
+git pull https://github.com/thegreatfoxxgoddess/Paimon.git
 git diff
 git commit -m "hmmmmmmmmm"
 git push
