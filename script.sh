@@ -33,6 +33,7 @@ fi
 
 echo " "
 echo "Updating your Repo"
+git pull
 git pull https://github.com/Thegreatfoxxgoddess/Paimon.git
 git diff
 git commit -m "hmmmmmmmmm"
