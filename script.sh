@@ -1,6 +1,6 @@
 #Update script of UserBot by @marshmello61
 #Some fixes by @RoyalBoy69
-
+#Some fixes by @Itachi_htk
 
 repo="Paimon"
 rm -rf ${repo}
