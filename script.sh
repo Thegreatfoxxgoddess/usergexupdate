@@ -19,18 +19,18 @@ echo " "
 
 if [[ "${fork}" == 'y' ]]; then
 	git clone https://github.com/${userName}/${repo}.git
-	cd ${repo}
 elif [[ "${fork}" == 'n' ]]; then
 	echo -n "Enter your repo name: "
 	read repo
 	git clone https://github.com/${userName}/${repo}.git
-	cd ${repo}
 else
         echo " "
         echo "You were only supposed to enter y or n"
         exit 1
 fi
 
+git config pull.rebase false
+cd ${repo}
 echo " "
 echo "Updating your Repo"
 git pull
