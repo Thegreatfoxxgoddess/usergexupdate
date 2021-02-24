@@ -2,7 +2,7 @@
 #Some fixes by @RoyalBoy69
 #Some fixes by @Itachi_htk
 
-repo="USERGE-X"
+repo="Paimon"
 rm -rf ${repo}
 
 echo "You're running the Paimon Updater script"
