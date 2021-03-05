@@ -34,7 +34,7 @@ cd ${repo}
 echo " "
 echo "Updating your Repo"
 git pull
-git pull https://github.com/Thegreatfoxxgoddess/Paimon.git
+git pull https://github.com/Thegreatfoxxgoddess/USERGE-X.git
 git diff
 git commit -m "commit"
 git push
