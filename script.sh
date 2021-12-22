@@ -1,6 +1,3 @@
-#Update script of UserBot by @marshmello61
-#Some fixes by @RoyalBoy69
-#Some fixes by @Itachi_htk
 
 repo="Paimon"
 rm -rf ${repo}
@@ -34,7 +31,7 @@ cd ${repo}
 echo " "
 echo "Updating your Repo"
 git pull
-git pull https://github.com/Thegreatfoxxgoddess/USERGE-X.git
+git pull https://github.com/fnixdev/Kanna-X.git
 git diff
 git commit -m "commit"
 git push
