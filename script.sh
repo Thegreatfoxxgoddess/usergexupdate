@@ -1,5 +1,5 @@
 
-repo="Paimon"
+repo="Kanna-X"
 rm -rf ${repo}
 
 echo "You're running the Paimon Updater script"
